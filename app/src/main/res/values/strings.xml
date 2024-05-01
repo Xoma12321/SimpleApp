@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimpleApp</string>
+    <string name="hi">Добро пожаловать в калькулятор!</string>
+    <string name="bye">Пока!</string>
+    <string name="start">Старт</string>
+    <string name="fIO">Хомяков Даниил Васильевич</string>
+    <string name="variant">Вариант №2</string>
+    <string name="group">РИБО-05-22</string>
+    <string name="scan">Считать</string>
+    <string name="fNum">Делимое</string>
+    <string name="sNum">Делитель</string>
+</resources>
